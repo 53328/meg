@@ -169,19 +169,9 @@
               "icon": "lucide-list",
               "title": "大纲"
             }
-          },
-          {
-            "id": "cca3fede302c661c",
-            "type": "leaf",
-            "state": {
-              "type": "git-view",
-              "state": {},
-              "icon": "git-pull-request",
-              "title": "Source Control"
-            }
           }
         ],
-        "currentTab": 5
+        "currentTab": 4
       }
     ],
     "direction": "horizontal",
@@ -198,7 +188,9 @@
       "command-palette:打开命令面板": false,
       "bases:新建数据库": false,
       "obsidian-git:Open Git source control": false,
-      "random-note:开始漫游笔记": false
+      "random-note:开始漫游笔记": false,
+      "i18n:common.i18n": false,
+      "better-plugins-manager:插件管理器": false
     }
   },
   "active": "414e501bcb3240a5",

@@ -7,7 +7,7 @@
   "author": "",
   "mode": 0,
   "automaticUpdate": false,
-  "llmApi": "openai",
+  "llmApi": "siliconflow",
   "llmResponseFormat": "text",
   "llmLanguage": "简体中文",
   "llmStyle": "无",
@@ -225,7 +225,7 @@
     }
   ],
   "llmStepfunActiveProfileId": "default",
-  "modeImt": false,
+  "modeImt": true,
   "imtPagerule": {
     "selectors": [
       ".mod-settings",
@@ -241,8 +241,15 @@
   },
   "shareToken": "",
   "shareRepo": "",
-  "shareProfiles": [],
-  "shareActiveProfileId": "",
+  "shareProfiles": [
+    {
+      "id": "1790331687796",
+      "name": "默认账号",
+      "token": "",
+      "repo": "obsidian-translations"
+    }
+  ],
+  "shareActiveProfileId": "1790331687796",
   "reFlags": "gs",
   "reLength": 300,
   "reDatas": [
