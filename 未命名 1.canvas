@@ -1,0 +1,9 @@
+{
+	"nodes":[
+		{"id":"0c5dbd843c590dae","x":332,"y":-231,"width":400,"height":400,"type":"file","file":"README.md"},
+		{"id":"f48ef8e9c9575559","x":-480,"y":-400,"width":400,"height":400,"type":"file","file":"啥啊.md"}
+	],
+	"edges":[
+		{"id":"b622083c29327f02","fromNode":"f48ef8e9c9575559","fromSide":"right","toNode":"0c5dbd843c590dae","toSide":"left"}
+	]
+}
