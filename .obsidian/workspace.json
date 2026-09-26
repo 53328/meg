@@ -81,7 +81,7 @@
       }
     ],
     "direction": "horizontal",
-    "width": 300
+    "width": 200
   },
   "right": {
     "id": "374d85065b2ba576",
@@ -191,6 +191,8 @@
   },
   "active": "538e324aaf46c365",
   "lastOpenFiles": [
+    "README.md",
+    "xmind/安神的思维导图.md",
     "未命名思维导图.md",
     "未命名.canvas",
     "xmind/未命名.md",
@@ -199,7 +201,6 @@
     "未命名.base",
     "2026-09-25.md",
     "xmind",
-    "README.md",
     "未命名 3.base",
     "未命名 2.base",
     "未命名 1.canvas",
