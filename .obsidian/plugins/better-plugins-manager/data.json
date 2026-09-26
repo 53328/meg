@@ -129,7 +129,24 @@
     }
   ],
   "HIDES": [],
-  "PLUGIN_LAYOUT": [],
+  "PLUGIN_LAYOUT": [
+    {
+      "id": "better-plugins-manager",
+      "type": "plugin"
+    },
+    {
+      "id": "obsidian-custom-attachment-location",
+      "type": "plugin"
+    },
+    {
+      "id": "obsidian-git",
+      "type": "plugin"
+    },
+    {
+      "id": "i18n",
+      "type": "plugin"
+    }
+  ],
   "REPO_MAP": {},
   "BPM_INSTALLED": [],
   "BETA_SOURCES": [],

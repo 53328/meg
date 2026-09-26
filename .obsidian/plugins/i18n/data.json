@@ -392,7 +392,9 @@
     "[!?,;:。！？，；：]\\s*$"
   ],
   "githubProxyUrl": "https://ghp.ci/",
-  "cloudRepos": [],
+  "cloudRepos": [
+    "Chico890921/obsidian-translations"
+  ],
   "defaultCloudRepo": "",
   "managerTab": "plugins",
   "pluginViewMode": "list",
