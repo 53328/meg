@@ -7,7 +7,7 @@
   "author": "",
   "mode": 0,
   "automaticUpdate": false,
-  "llmApi": "siliconflow",
+  "llmApi": "openai",
   "llmResponseFormat": "text",
   "llmLanguage": "简体中文",
   "llmStyle": "无",
@@ -225,7 +225,7 @@
     }
   ],
   "llmStepfunActiveProfileId": "default",
-  "modeImt": true,
+  "modeImt": false,
   "imtPagerule": {
     "selectors": [
       ".mod-settings",
@@ -241,15 +241,8 @@
   },
   "shareToken": "",
   "shareRepo": "",
-  "shareProfiles": [
-    {
-      "id": "1790331687796",
-      "name": "默认账号",
-      "token": "",
-      "repo": "obsidian-translations"
-    }
-  ],
-  "shareActiveProfileId": "1790331687796",
+  "shareProfiles": [],
+  "shareActiveProfileId": "",
   "reFlags": "gs",
   "reLength": 300,
   "reDatas": [
@@ -392,9 +385,7 @@
     "[!?,;:。！？，；：]\\s*$"
   ],
   "githubProxyUrl": "https://ghp.ci/",
-  "cloudRepos": [
-    "Chico890921/obsidian-translations"
-  ],
+  "cloudRepos": [],
   "defaultCloudRepo": "",
   "managerTab": "plugins",
   "pluginViewMode": "list",

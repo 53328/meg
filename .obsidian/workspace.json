@@ -22,16 +22,6 @@
             }
           },
           {
-            "id": "120548ea387494b3",
-            "type": "leaf",
-            "state": {
-              "type": "i18n-manager-view",
-              "state": {},
-              "icon": "layout-grid",
-              "title": "i18n 管理中心"
-            }
-          },
-          {
             "id": "5d5b7516f201c845",
             "type": "leaf",
             "state": {
@@ -46,7 +36,7 @@
             }
           }
         ],
-        "currentTab": 2
+        "currentTab": 1
       }
     ],
     "direction": "vertical"
