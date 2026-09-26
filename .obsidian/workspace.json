@@ -4,24 +4,19 @@
     "type": "split",
     "children": [
       {
-        "id": "4cfa41889e692caf",
+        "id": "7c5c25c855507f7e",
         "type": "tabs",
         "children": [
           {
-            "id": "414e501bcb3240a5",
+            "id": "538e324aaf46c365",
             "type": "leaf",
             "state": {
-              "type": "canvas",
+              "type": "mindmapView",
               "state": {
-                "file": "未命名.canvas",
-                "viewState": {
-                  "x": 0,
-                  "y": 93,
-                  "zoom": 0
-                }
+                "file": "未命名思维导图.md"
               },
-              "icon": "lucide-layout-dashboard",
-              "title": "未命名"
+              "icon": "blocks",
+              "title": "未命名思维导图"
             }
           }
         ]
@@ -194,10 +189,11 @@
       "random-note:开始漫游笔记": false
     }
   },
-  "active": "414e501bcb3240a5",
+  "active": "538e324aaf46c365",
   "lastOpenFiles": [
-    "xmind/未命名.md",
+    "未命名思维导图.md",
     "未命名.canvas",
+    "xmind/未命名.md",
     "啥啊.md",
     "未命名 1.base",
     "未命名.base",
