@@ -11,12 +11,14 @@
             "id": "538e324aaf46c365",
             "type": "leaf",
             "state": {
-              "type": "mindmapView",
+              "type": "markdown",
               "state": {
-                "file": "未命名思维导图.md"
+                "file": "2027届选调生报考决策指南.md",
+                "mode": "source",
+                "source": false
               },
-              "icon": "blocks",
-              "title": "未命名思维导图"
+              "icon": "lucide-file",
+              "title": "2027届选调生报考决策指南"
             }
           }
         ]
@@ -191,8 +193,9 @@
   },
   "active": "538e324aaf46c365",
   "lastOpenFiles": [
-    "README.md",
     "未命名思维导图.md",
+    "2027届选调生报考决策指南.md",
+    "README.md",
     "xmind/安神的思维导图.md",
     "未命名.canvas",
     "xmind/未命名.md",
