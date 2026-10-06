@@ -13,12 +13,12 @@
             "state": {
               "type": "markdown",
               "state": {
-                "file": "行测经验.md",
+                "file": "模板1.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "行测经验"
+              "title": "模板1"
             }
           }
         ]
@@ -83,7 +83,8 @@
       }
     ],
     "direction": "horizontal",
-    "width": 200
+    "width": 200,
+    "collapsed": true
   },
   "right": {
     "id": "374d85065b2ba576",
@@ -215,10 +216,11 @@
   },
   "active": "538e324aaf46c365",
   "lastOpenFiles": [
+    "行测经验.md",
+    "模板1.md",
     "web未处理项目.md",
     "大作文.md",
     "啥啊.md",
-    "行测经验.md",
     "README.md",
     "日记/2026-10-04.md",
     "2026-10-03.md",
