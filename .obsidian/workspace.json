@@ -11,14 +11,12 @@
             "id": "538e324aaf46c365",
             "type": "leaf",
             "state": {
-              "type": "markdown",
+              "type": "mindmapView",
               "state": {
-                "file": "申论/申论经验.md",
-                "mode": "source",
-                "source": false
+                "file": "xmind/安神的思维导图.md"
               },
-              "icon": "lucide-file",
-              "title": "申论经验"
+              "icon": "blocks",
+              "title": "安神的思维导图"
             }
           }
         ]
@@ -215,13 +213,14 @@
   },
   "active": "538e324aaf46c365",
   "lastOpenFiles": [
+    "2027届选调生报考决策指南.md",
+    "申论/申论经验.md",
+    "xmind/安神的思维导图.md",
     "申论/配套问题.md",
     "申论/规范词.md",
     "行测经验.md",
     "配套方法.md",
-    "申论/申论经验.md",
     "README.md",
-    "2027届选调生报考决策指南.md",
     "材料.md",
     "web未处理项目.md",
     "政常语积累.md",
@@ -233,7 +232,6 @@
     "日记",
     "未命名.canvas",
     "未命名思维导图.md",
-    "xmind/安神的思维导图.md",
     "xmind/未命名.md",
     "申论",
     "未命名 1.base",
